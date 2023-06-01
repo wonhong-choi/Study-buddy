@@ -1,0 +1,14 @@
+{% extends 'main.html' %}
+
+{% block content %}
+<div>
+    <form method="POST" action="">
+        {% csrf_token %}
+        <!-- {{form}} > 수평적 배치--> 
+        <!-- .as_p > 수직적으로 배치 -->
+        {{form.as_p}} 
+        <input type="submit" value="submit"/>
+    </form>
+
+</div>
+{% endblock %}

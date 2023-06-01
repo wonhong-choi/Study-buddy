@@ -6,3 +6,6 @@ class RoomForm(ModelForm):
     class Meta:
         model = Room
         fields = '__all__' # except auto-generated field
+        exclude = ['host', 'participants']
+        
+        

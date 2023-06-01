@@ -3,4 +3,4 @@ Django tutorial with templates.
 
 https://www.youtube.com/watch?v=PtQiiknWUcI
 
-3:01:25 -  Chat Room Messages CRUD
+5:11:50 - Edit User Account Page
