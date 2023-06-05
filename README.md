@@ -3,4 +3,4 @@ Django tutorial with templates.
 
 https://www.youtube.com/watch?v=PtQiiknWUcI
 
-5:11:50 - Edit User Account Page
+5:53:00 - Django REST Framework
